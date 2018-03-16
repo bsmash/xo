@@ -6,8 +6,8 @@ import (
 	_ "github.com/go-sql-driver/mysql"
 
 	"github.com/knq/snaker"
-	"github.com/knq/xo/internal"
-	"github.com/knq/xo/models"
+	"github.com/sharonjl/xo/internal"
+	"github.com/sharonjl/xo/models"
 )
 
 func init() {

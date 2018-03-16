@@ -1,3 +1,5 @@
+Hard fork of github.com/xo/xo. Intention is to support pgx models and types
+
 # About xo
 
 `xo` is a command-line tool to generate [Go](https://golang.org/project/)
